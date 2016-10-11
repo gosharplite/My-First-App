@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">台北 101</string>
+    <string name="edit_message">輸入訊息</string>
+    <string name="button_send">傳送</string>
+</resources>
